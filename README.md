@@ -1,4 +1,4 @@
-# income-tax-india-calculator
+# Income-Tax-India-Deduction-Calculation  FY 2024-25
 
 ## Description
 This project aims to create a npm package for calculating the taxable amount from Indian Income Tax Department based on Tax slab 
