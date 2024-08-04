@@ -17,5 +17,7 @@ To install the package, use npm:
 ```bash
 npm install income-tax-india-calculator
 
+## NOTE
+Test folder is a sample test done.
 
 
