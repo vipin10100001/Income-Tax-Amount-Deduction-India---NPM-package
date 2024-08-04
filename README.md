@@ -11,13 +11,11 @@ New income tax slabs for FY 2023-24 (AY 2024-25)
 | Above Rs. 10,00,000 | 30% |
 
 ## Installation
-Instructions on how to install the package.
 
-## Usage
-Explains how to use the package.
+To install the package, use npm:
 
-## Contributing
-Guidelines for contributions.
+```bash
+npm install income-tax-india-calculator
 
-## License
-Specify the license under which your code is released.
+
+
